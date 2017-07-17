@@ -1,0 +1,19 @@
+{
+  "name": "Rename Columns",
+  "id_name": "renamecolumns",
+  "category" : "Invisible Institute",
+  "parameters": [
+    {
+      "name": "Rename Columns",
+      "id_name": "colrename",
+      "type": "custom",
+      "ui-only": true
+    },
+    {
+      "name": "Column Names",
+      "id_name": "newcolnames",
+      "type": "string",
+      "visible": false
+    }
+  ]
+}
