@@ -2,6 +2,7 @@
   "name": "Rename Columns",
   "id_name": "columnrenamer",
   "category" : "Invisible Institute",
+  "description": "Rename columns of the data set",
   "parameters": [
     {
       "name": "Rename Columns",
