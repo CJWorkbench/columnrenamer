@@ -2,6 +2,7 @@
   "name": "Rename Columns",
   "id_name": "columnrenamer",
   "category" : "Edit",
+  "icon": "edit",
   "description": "Edit column names.",
   "parameters": [
     {
