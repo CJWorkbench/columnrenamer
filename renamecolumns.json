@@ -1,7 +1,7 @@
 {
   "name": "Rename Columns",
   "id_name": "columnrenamer",
-  "category" : "transform",
+  "category" : "Transform",
   "icon": "edit",
   "description": "Edit column names.",
   "parameters": [
