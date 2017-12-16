@@ -1,5 +1,7 @@
 def render(table, params):
 
+    import json
+    
     names = params['newcolnames']
     if names is None or names.strip() == '':
         return table
