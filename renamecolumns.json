@@ -4,6 +4,7 @@
   "category" : "Analyse",
   "icon": "edit",
   "description": "Edit column names.",
+  "help_url":"modules/analyse/rename-columns",
   "parameters": [
     {
       "name": "Rename Columns",
