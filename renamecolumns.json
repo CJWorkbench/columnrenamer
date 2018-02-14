@@ -3,7 +3,7 @@
   "id_name": "columnrenamer",
   "category" : "Prepare",
   "icon": "edit",
-  "description": "Edit column names.",
+  "description": "",
   "help_url":"modules/analyse/rename-columns",
   "parameters": [
     {
