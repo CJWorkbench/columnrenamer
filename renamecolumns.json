@@ -1,7 +1,7 @@
 {
   "name": "Rename columns",
   "id_name": "columnrenamer",
-  "category" : "Prepare",
+  "category" : "Edit",
   "icon": "edit",
   "description": "",
   "help_url":"modules/analyse/rename-columns",
