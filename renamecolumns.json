@@ -1,10 +1,10 @@
 {
   "name": "Rename columns",
   "id_name": "columnrenamer",
-  "category" : "Edit",
+  "category" : "Clean",
   "icon": "edit",
   "description": "",
-  "help_url":"modules/edit/rename-columns",
+  "help_url":"modules/clean/rename-columns",
   "parameters": [
     {
       "name": "Rename Columns",
